@@ -1,9 +1,8 @@
-[1] - Codewars
-[3] - Personal Project/GetOut
-[1/2] -Trial Whiteboard Interview
-[] - 
+[3] - Personal Project/Humanskill: https://github.com/antalAkos/humanskill; 
+[1] - Trial Whiteboard Interview with Zozi;
+[2] - Tutorial project with Nodejs, Mongodb, Express: https://github.com/antalAkos/nodetest;
 [] - 
 ~~~~~~~~
-[] - Summary
+[6] - Summary
 ~~~~~~~~
 Written recommodation
